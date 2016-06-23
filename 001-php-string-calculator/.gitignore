@@ -1,0 +1,5 @@
+.idea/*
+nbproject/*
+vendor/*
+!.gitignore
+composer.lock
